@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/deal-Card/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/deal-Card/static/js/main.e6953fc8.chunk.js",
+    "main.js.map": "/deal-Card/static/js/main.e6953fc8.chunk.js.map",
+    "runtime-main.js": "/deal-Card/static/js/runtime-main.d60c0ec6.js",
+    "runtime-main.js.map": "/deal-Card/static/js/runtime-main.d60c0ec6.js.map",
+    "static/js/2.dcf3d5e4.chunk.js": "/deal-Card/static/js/2.dcf3d5e4.chunk.js",
+    "static/js/2.dcf3d5e4.chunk.js.map": "/deal-Card/static/js/2.dcf3d5e4.chunk.js.map",
+    "static/js/3.8886f596.chunk.js": "/deal-Card/static/js/3.8886f596.chunk.js",
+    "static/js/3.8886f596.chunk.js.map": "/deal-Card/static/js/3.8886f596.chunk.js.map",
+    "index.html": "/deal-Card/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/deal-Card/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.dcf3d5e4.chunk.js.LICENSE.txt": "/deal-Card/static/js/2.dcf3d5e4.chunk.js.LICENSE.txt",
+    "static/media/club.685245d3.png": "/deal-Card/static/media/club.685245d3.png",
+    "static/media/diamond.24d3b3e2.png": "/deal-Card/static/media/diamond.24d3b3e2.png",
+    "static/media/heart.20165ed9.png": "/deal-Card/static/media/heart.20165ed9.png",
+    "static/media/spade.7b0c2f88.png": "/deal-Card/static/media/spade.7b0c2f88.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d60c0ec6.js",
+    "static/js/2.dcf3d5e4.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.e6953fc8.chunk.js"
+  ]
+}
